@@ -1,1 +1,24 @@
 theme: minima
+title: thom blog
+description: thom krynen's blog
+author: thom krynen
+
+base_url: /blog
+
+github_username: kryn3n
+linkedin_username: thomk
+rss: rss
+
+minima:
+  date_format: "%Y-%m-%d"
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
