@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "home"
+title: home
 layout: home
 list_title: posts
 ---
