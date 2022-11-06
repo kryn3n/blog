@@ -1,16 +1,19 @@
 theme: minima
 title: thom blog
-description: thom krynen's blog
-author: thom krynen
+description: a place for ideas
+author: 
+  name: thom krynen
+  email: thom@gmx.com
 
 base_url: /blog
 
 github_username: kryn3n
-linkedin_username: thomk
+linkedin_username: tkrynen
 rss: rss
 
 minima:
   date_format: "%Y-%m-%d"
+  skin: solarized-dark
 
 include:
     - _pages
