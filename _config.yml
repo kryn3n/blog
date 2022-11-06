@@ -1,9 +1,9 @@
-theme: minima
 title: thom blog
 description: a place for ideas
 author: 
   name: thom krynen
   email: thom@gmx.com
+remote_theme: jekyll/minima
 
 base_url: /blog
 
