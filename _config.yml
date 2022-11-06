@@ -5,23 +5,15 @@ author:
   email: thom@gmx.com
 remote_theme: jekyll/minima
 
-base_url: /blog
-
-github_username: kryn3n
-linkedin_username: tkrynen
-rss: rss
+social_links:
+  github: kryn3n
+  linkedin: tkrynen
+  instagram: krynens
 
 minima:
-  date_format: "%Y-%m-%d"
-  skin: dark
+  date_format: "%b %-d, %Y"
+  skin: solarized-light
 
-include:
-    - _pages
 
-exclude: 
-    - .gitignore
-    - docker-compose.yml
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
+header_pages:
+  - about.md
