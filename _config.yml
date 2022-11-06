@@ -13,7 +13,7 @@ rss: rss
 
 minima:
   date_format: "%Y-%m-%d"
-  skin: solarized-dark
+  skin: dark
 
 include:
     - _pages
